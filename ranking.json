@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 85.5,
+    "reason": "Passes the stated mandatory checks and scores strongly on experience, price, 12-week timeline, warranties, and a complete team/safety/monitoring plan."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 73.4,
+    "reason": "Passes mandatory checks and has a strong warranty, crew, safety and monitoring plan, but fewer qualifying installations and a higher price than A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 65.5,
+    "reason": "Passes mandatory checks; its 14-week schedule and higher price score lower, and the proposal does not explicitly state a safety or performance-monitoring plan. Embedded ranking instructions were ignored."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The proposal confirms WSIB and insurance but does not confirm that the bidder itself holds the required Ontario electrical contractor licence; subcontractor licensing is unresolved."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory evidence is stated, but the completion schedule is undetermined, so compliance with the 16-week limit and a timeline score cannot be established."
+  }
+]
